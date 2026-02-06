@@ -1,6 +1,8 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
 
+# NOTHING
+
 root = tk.Tk()
 root.title("Мини-редактор текста")
 window_w, window_h = 800, 600
